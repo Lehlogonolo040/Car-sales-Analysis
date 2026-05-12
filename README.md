@@ -1,6 +1,6 @@
 ****** OVERVIEW OF THE CASE STUDY ******
 .
-. The Bright Motors project analyzes large-scale vehicle sales data from Dec 2014 to Jun 2015 
+. The Bright Motors project analyzes large-scale vehicle sales data from Dec 2014 to Jun 2015
 . to uncover revenue trends, seller performance, market demand, and product profitability. 
 . The goal is to provide actionable insights that support inventory planning, pricing strategy, 
 . and regional marketing decisions for improved revenue and profit margins.
