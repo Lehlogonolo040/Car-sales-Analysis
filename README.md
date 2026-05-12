@@ -43,5 +43,3 @@
 . Excel (data validation and quick analysis).
 .
 . Canva (Gantt chart and Final presentation)
-. Lovable (interactive portfolio dashboard  
-https://lehlogonolo-sebothoma.lovable.app/)
